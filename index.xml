@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdelrahman Ahmad</title>
+    <link>https://abdelrahman-ahmad.com/</link>
+    <description>Recent content on Abdelrahman Ahmad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abdelrahman-ahmad.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://abdelrahman-ahmad.com/about/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelrahman-ahmad.com/about/</guid>
+      <description>Personal Info I&amp;rsquo;m Abdelrahman and I&amp;rsquo;m an IoT researcher at Pro2Future GmbH. I come from Egypt but I live in Linz-Austria now. I got my bachelor&amp;rsquo;s degree in Computer Science from the German University in Cairo in 2016, then I joined Johannes Kepler University for my master&amp;rsquo;s degree. I finished my master&amp;rsquo;s in summer 2017 and after that applied for PhD which is still pending 😉
+Languages  Arabic (Mother Tongue) English German (B1) Arduino, Python, Java, MySQL, Git &amp;mdash; ⭐ ⭐ ⭐ ⭐ C++, LaTeX, HTML, CSS &amp;mdash; ⭐ ⭐ ⭐ C, PHP, C#, Android, JavaScript &amp;mdash; ⭐ ⭐  </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://abdelrahman-ahmad.com/posts/2021/02/education/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelrahman-ahmad.com/posts/2021/02/education/</guid>
+      <description>Jan. 2019 - Present PhD student in Technical Sciences: Computer Science, from Johannes Kepler University in Linz-Austria
+Sep. 2017 - July 2018 Master’s of Science: Informatics:- Engineering Management, from Johannes Kepler University in Linz-Austria
+Sep. 2012 - July 2017 Bachelor’s degree in Media and Engineering Technology: Computer Science, from the German University in Cairo-Egypt</description>
+    </item>
+    
+    <item>
+      <title>Internships</title>
+      <link>https://abdelrahman-ahmad.com/posts/2021/02/internships/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelrahman-ahmad.com/posts/2021/02/internships/</guid>
+      <description>Jun. 2016 - Aug. 2016 Gaitech Technology Company in Shanghai-China  Building the company’s Educational website for Turtlebot robot and Drones. Developing new tutorials for the Turtlebot robot.  May 2015 - Aug. 2015 Prince Sultan University in Riyadh-KSA  Integrating ROS Hydro and ROS Indigo versions with Arduino Developing an application to control a Turtlebot Arm with an Arduino Ultrasonic Sensor Developing an application to control a Turtlebot Arm with an Arduino RFID Investigating the integration of the Turtlebot arm with moveit!</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Publications</title>
+      <link>https://abdelrahman-ahmad.com/posts/2021/02/research-publications/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelrahman-ahmad.com/posts/2021/02/research-publications/</guid>
+      <description>Research   Oct. 2017 - July 2018 Master thesis entitled: ”A Smart Network for Marketing Solutions”, a model of a smart network is established using different IoT devices connected to different sensors and communicating through a wired network creating a bus system to handle communication between smart devices and a main server. A prototype was successfully deployed with the Umdasch Digital Retail company. The smart device that was used is a Raspberry Pi 3 (model B) programmed in Python connected to different sensors.</description>
+    </item>
+    
+  </channel>
+</rss>
