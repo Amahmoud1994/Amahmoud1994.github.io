@@ -1,0 +1,127 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Abdelrahman Ahmad</title>
+        <link>https://abdelrahman-ahmad.com/posts/</link>
+        <description>Recent content in Posts on Abdelrahman Ahmad</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://abdelrahman-ahmad.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Education</title>
+            <link>https://abdelrahman-ahmad.com/posts/2021/02/education/</link>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://abdelrahman-ahmad.com/posts/2021/02/education/</guid>
+            <description>Jan. 2019 - Present PhD student in Technical Sciences: Computer Science, from Johannes Kepler University in Linz-Austria
+Sep. 2017 - July 2018 Master’s of Science: Informatics:- Engineering Management, from Johannes Kepler University in Linz-Austria
+Sep. 2012 - July 2017 Bachelor’s degree in Media and Engineering Technology: Computer Science, from the German University in Cairo-Egypt</description>
+            <content type="html"><![CDATA[<h2 id="jan-2019---present">Jan. 2019 - Present</h2>
+<p>PhD student in Technical Sciences: Computer Science, from Johannes Kepler University in Linz-Austria</p>
+<h2 id="sep-2017---july-2018">Sep. 2017 - July 2018</h2>
+<p>Master’s of Science: Informatics:-
+Engineering Management, from Johannes Kepler University in Linz-Austria</p>
+<h2 id="sep-2012---july-2017">Sep. 2012 - July 2017</h2>
+<p>Bachelor’s degree in Media and Engineering Technology:
+Computer Science, from the German University in Cairo-Egypt</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Internships</title>
+            <link>https://abdelrahman-ahmad.com/posts/2021/02/internships/</link>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://abdelrahman-ahmad.com/posts/2021/02/internships/</guid>
+            <description>Jun. 2016 - Aug. 2016 Gaitech Technology Company in Shanghai-China  Building the company’s Educational website for Turtlebot robot and Drones. Developing new tutorials for the Turtlebot robot.  May 2015 - Aug. 2015 Prince Sultan University in Riyadh-KSA  Integrating ROS Hydro and ROS Indigo versions with Arduino Developing an application to control a Turtlebot Arm with an Arduino Ultrasonic Sensor Developing an application to control a Turtlebot Arm with an Arduino RFID Investigating the integration of the Turtlebot arm with moveit!</description>
+            <content type="html"><![CDATA[<h2 id="jun-2016---aug-2016">Jun. 2016 - Aug. 2016</h2>
+<h4 id="gaitech-technology-company-in-shanghai-china">Gaitech Technology Company in Shanghai-China</h4>
+<ul>
+<li>Building the company’s <a href="http://edu.gaitech.hk">Educational website</a> for Turtlebot robot and Drones.</li>
+<li>Developing new tutorials for the Turtlebot robot.</li>
+</ul>
+<h2 id="may-2015---aug-2015">May 2015 - Aug. 2015</h2>
+<h4 id="prince-sultan-university-in-riyadh-ksa">Prince Sultan University in Riyadh-KSA</h4>
+<ul>
+<li>Integrating ROS Hydro and ROS Indigo versions with Arduino</li>
+<li>Developing an application to control a Turtlebot Arm with an Arduino Ultrasonic Sensor</li>
+<li>Developing an application to control a Turtlebot Arm with an Arduino RFID</li>
+<li>Investigating the integration of the Turtlebot arm with moveit!</li>
+</ul>
+<h2 id="jan-2015---feb-2015">Jan. 2015 - Feb. 2015</h2>
+<h4 id="prince-sultan-university-in-riyadh-ksa-1">Prince Sultan University in Riyadh-KSA</h4>
+<ul>
+<li>Connecting an ultrasonic sensor with the arduino robot and implementing an arduino program to detect and avoid obstacles.</li>
+<li>Investigating the AscTech FireFly Drone and applications with its camera</li>
+<li>AscTech FireFly Drone field testing</li>
+</ul>
+<h2 id="jan-2014---feb-2014">Jan. 2014 - Feb. 2014</h2>
+<h4 id="prince-sultan-university-in-riyadh-ksa-2">Prince Sultan University in Riyadh-KSA</h4>
+<ul>
+<li>Developing an arduino program for the PhantomX Pincher Robot Arm to carry a water bottle from one location to another.</li>
+</ul>
+<h2 id="feb-2017---may-2017">Feb. 2017 - May 2017</h2>
+<h4 id="german-university-in-cairo-egypt">German University in Cairo-Egypt</h4>
+<ul>
+<li>Junior teaching assistant at the German University in Cairo for Software Engineering course.</li>
+</ul>
+<h2 id="oct-2015---jan-2016">Oct. 2015 - Jan. 2016</h2>
+<h4 id="german-university-in-cairo-egypt-1">German University in Cairo-Egypt</h4>
+<ul>
+<li>Junior teaching assistant at the German University in Cairo for ComputerScience102 course.</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Research &amp; Publications</title>
+            <link>https://abdelrahman-ahmad.com/posts/2021/02/research-publications/</link>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://abdelrahman-ahmad.com/posts/2021/02/research-publications/</guid>
+            <description>Research   Oct. 2017 - July 2018 Master thesis with the title: ”A Smart Network for Marketing Solutions”, a model of a smart network is established using different IOT devices connected to different sensors and communicating through a wired network creating a bus system to handle communication between smart devices and a main server. A prototype was successfully deployed with the Umdasch Digital Retail company. The smart device that was used is a Raspberry Pi 3 (model B) programmed in Python connected to different sensors.</description>
+            <content type="html"><![CDATA[<h2 id="research">Research</h2>
+<ul>
+<li>
+<h4 id="oct-2017---july-2018">Oct. 2017 - July 2018</h4>
+<p>Master thesis with the title: ”A Smart Network for Marketing Solutions”, a model of a smart network is established using different IOT devices connected to different
+sensors and communicating through a wired network creating a bus system to handle communication between smart devices and a main server. A prototype was successfully
+deployed with the Umdasch Digital Retail company. The smart device that was used is a Raspberry Pi 3 (model B) programmed in Python connected to different sensors.
+The main server was a web server programmed in Java. The server handled receiving the data from the smart devices, inserting into a database and creating events based on that data. Other smart devices listen to the events and take actions accordingly.</p>
+</li>
+<li>
+<h4 id="jan-2016---june-2016">Jan. 2016 - June 2016</h4>
+<p>Bachelor thesis with the title: ”A Cloud-Based Person Activity Monitoring System
+using Participatory Sensing”, a model of a smart room is established using different IoT
+devices connected to different sensors and communicating through a wireless network to
+monitor temperature, humidity, light, gas and door status. A prototype was deployed
+in a lab in PSU university. The IOT devices that were used are Arduino boards
+programmed using Arduino IDE and Raspberry Pi (model B+) programmed in Python.
+The PubNub IoT platform was used to manage the stream of sensor data in real-time
+from all the sensor nodes to a responsive web interface. The prototype was successfully
+deployed for several days at the lab in PSU university.</p>
+</li>
+</ul>
+<h2 id="publications">Publications</h2>
+<ul>
+<li>
+<p>Ahmad, A., Haslgrübler, M., Ferscha, A., Ettinger, B.,  Cho, J. (2020, June). Macroworkstep  detection  for  assembly  manufacturing. In Proceedings of the 13th ACMInternational Conference on Pervasive Technologies Related to Assistive Environments(pp. 1-6).</p>
+</li>
+<li>
+<p>Murauer, Michaela, et al., A task-independent design and development process for cognitive products in industrial applications. Proceedings of the 12th ACM International
+Conference on PErvasive Technologies Related to Assistive Environments. 2019.</p>
+</li>
+<li>
+<p>Anis Koubaa, Mohamed Foued Sriti, Yasir Javed, Maram Alajlan, Basit Qureshi, Fatma Ellouze, Abdelrahman Mahmoud, MyBot: Cloud-Based Service Robot using Service Oriented Architecture, PUBLINDUSTRIA (robotica; vol.107, 8-13), Porto, Portugal, 2017.</p>
+</li>
+<li>
+<p>Anis Koubaa, Mohamed-Foued Sriti, Yasir Javed, Maram Alajlan, Basit Qureshi, Fatma Ellouze, Abdelrahman Mahmoud, Turtlebot at Office: A Service-Oriented Software Architecture for Personal Assistant Robots using ROS, submitted IEEE International Conference on Robotics and Automation (ICRA 2016), Stockholm, Sweden, May 16-21.</p>
+</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
